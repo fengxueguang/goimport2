@@ -1,3 +1,3 @@
-module github.com/fengxueguang/goimport
+module github.com/fengxueguang/goimport2
 
 go 1.20
